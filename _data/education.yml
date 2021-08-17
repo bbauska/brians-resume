@@ -3,11 +3,10 @@
   uni: Central Washington University
   year: 1978 &mdash; 1986
   awards:
-    - award: 
   summary: Lab instructor, Fortran, Cobol, Pascal, Basic, Assembly
 
 - degree: High School Diploma
   uni: Thorp High School
-  year: 1978
-  award: Nope
-  summary: You can choose to have either a single or multiple awards
+  year: 1975 &mdash; 1978
+  awards: Salutatorian
+  summary: 
