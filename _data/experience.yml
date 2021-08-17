@@ -1,27 +1,33 @@
 # Jobs
+# Systems Support
+- company: Bob Dodge Company (Tim's Potato Chips)
+  position: Systems Support (small business)
+  duration: Nov, 2016 &mdash; Current
+  summary: Network (satellite) system setup and support.  Fix latency issues & optimize hardware/software for secondary and tertiary execution (batch).  Utilize AppleWorks, Google Apps, MS Office and Visual Basic to automate processes for a small enterprise.
+
+# Contractor/Consultant
+- company: Multiple
+  position: Contractor/Consultant
+  duration: Mar, 2008 &mdash; Nov, 2016
+  summary: Work with/for every ilk – small business owners, ‘many-business’ owners, farmers, artists, engineers, medical (hospital), loggers, truck delivery driver (long/short haul), and government (state and provincial).
+
 # Systems Analyst
 - company: Georgia-Pacific - Northwest Service Centers
   position: Systems Analsyt (BI)
   duration: Jan, 2000 &mdash; Feb, 2008
   summary: Lead design in ETL (Extract, Translate & Load) project (to SAP) at Georgia-Pacific transferring data from MP2, warehouse management, inventory, quality control/assurance, payroll, time clock/entry, and employee human resource tables.  Already knew the systems from previous Y2K data conversion.  Documented well enough, data transfer was a snap.
-  
+
 # Programmer/Analyst
 - company: Gunderson Rail
   position: Programmer/Analyst II
   duration: Jun, 1998  &mdash; May, 2000
   summary: Developed a quality control/assurance system for rail cars.
 
-# Contractor/Consultant
-- company: 10 different
-  position: Contractor/Consultant
-  duration: Mar, 2008 &mdash; Nov, 2016
-  summary: Work with/for every ilk – small business owners, ‘many-business’ owners, farmers, artists, engineers, medical (hospital), loggers, truck delivery driver (long/short haul), and government (state and provincial).
-
-# More Contractor/Consulting
-- company: Canadian Ministries (Labor, Education, Health)
-  position: 4th GL Programmer/Analyst
-  duration: Sep, 1986 &mdash; Feb, 1992
-  summary: Strong analytical, project management, and organizational skills.
+# Systems Manager - DEC/VAX 
+- company: Puget Plastics
+  position: Systems Manager
+  duration: Jun, 1996  &mdash; May, 1998
+  summary: Program using Progress’ fourth GL on Alpha Server 2000 4/233. Installed, maintained and supported turn-key third-party manufacturing system and Digital Equipment Corporation server hardware. Added links to system for proprietary sub-systems and ODBC link for access from Netware network OS for live and batch data warehousing. Wrote sub-systems to interface with third-party manufacturing information system. Included tracking system for preventative maintenance on plastic molds, and reports to track rejected molds. Saved thousands of dollars by pinpointing reject locations and operators.  Supported hardware & software systems management on Alpha Server; also incremental and full mage backups, terminal server linking and PC access to Netware.
 
 # Programmer/Analyst
 - company: City of Bellevue
@@ -29,9 +35,8 @@
   duration: Feb, 1992 &mdash; Feb, 1996
   summary: Ability to understand business needs, communicate and translate them into operational requirements.  Started writing business requirements in 1986 while at Pathfinder Software – helped sell first US system to the City of Bellevue by demonstrating the turn-key 
 
-# Systems Analyst
-- company: Georgia-Pacific
-  position: Warehouse Management System Analyst
-  duration: Jan, 2000 &mdash; Apr, 2008
+# Programmer/Analyst
+- company: Pathfinder Software
+  position: Programmer/Analyst
+  duration: Jun, 1986 &mdash; Feb, 1996
   summary: Human Resources/Payroll system.  Then installed Payroll/Human Resources system on a DEC mainframe.  Helped train IT staff in Powerhouse (‘SQL-like’ Data Manipulation/Data Control/Data Definition language).  Customer-centric.  Experience training IT staff, end-users and management in Human Resources, Payroll, Inventory Tracking, Warehouse Management, PC general knowledge, mainframe / client-server terminal access. 
-  
