@@ -1,15 +1,19 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: PPUG
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: 2001 &mdash; 2021
+  url: https://community.ibm.com/community/user/businessanalytics/communities/user-groups
+  summary: Cognos Powerhouse (now IBM) Business Analytics User's Group
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
+- organization: HP MPE Tips for the HP 3000
+  role: Systems Manager
+  year: 1996 &mdash; 2000
+  url: http://robelle.com/tips/mpe.html
+  It seems as if every HP 3000 site has a Sarbanes-Oxley (SOX) story. For example, consider this discussion thread from the 3000-L:
+  I'd like to get some ideas/info on how others solved the 'access to the spool file' SOX issue. My current aggravation with the auditors is as follows: We have a snag in our production data, and I have to run JCL jobs in production to try to find the hosed data. To run these research JCL's, I have to use my logon with BA access in the job card of the JCL so that if I try to change the production data using these JCL's while doing research, my user will be tracked in the log files for the changes...geeez .
+  However, I, myself, can't log onto production as an online user (IA access), I can only log onto develop with IA access, so I can't view the STDLIST created by the JCL I've run. I don't want to have the operators copy the spool files to my private account every time the job is run, and the auditors won't let me view production spool files (the word ridiculous should come in here somewhere, but...). Also, I can't run GOD (the auditors nixed that long ago), or do a CHGLOGON.
+  So, any help with this would be great.
   summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
