@@ -1,6 +1,6 @@
 # Site settings
 title: "Brian's Resume"
-description: "A resume for Brian Bauska on GitHub Pages sites."
+description: "A resume for Brian Bauska on GitHub Pages site."
 
 # Build settings
 markdown: kramdown
@@ -21,7 +21,7 @@ resume_contact_telephone:       "509-306-0375"
 resume_contact_address:         "1102 E. Seattle Ave, Ellensburg, WA 98926-3919"
 
 resume_header_contact_info:     "1102 E. Seattle Ave, Ellensburg, WA 98926-3919 • 306-0375 • brianbauska@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Senior Systems/Data Analyst, where 40,000+ hours of experience will contribute. 
 Proven ability to analyze, integrate, move, and ‘model’ large volumes of enterprise data into useful data warehouses for multiple business needs.  
