@@ -43,13 +43,13 @@ Right now resume-template only has one theme. More are coming :soon: though. :he
 
 ## Roadmap
 
-A feature roadmap is [available here\](https://github.com/jglovier/resume-template/projects1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
+A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
 
 ## Contributing
 
 If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
 
-1. \[Open an issue\](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
+1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
 2. Fork the project, make changes, and submit a pull request
 
 ## License
