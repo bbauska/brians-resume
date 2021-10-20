@@ -2,7 +2,7 @@
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-![img](images/gorgeous silus - omg.jpg)
+![img](https://github.com/bbauska/brians-resume/blob/gh-pages/images/gorgeous%20silus%20-%20omg.jpg?raw=true)
 
 ## Docs
 
