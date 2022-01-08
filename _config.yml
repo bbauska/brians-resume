@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brian A. Bauska"
-resume_title:                   "Systems Analyst & Best Grandpa Ever!"
+resume_title:                   "Systems Analyst"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "brianbauska@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "509-306-0375"
-resume_contact_address:         "1102 E. Seattle Ave, Ellensburg, WA 98926-3919"
+resume_contact_address:         "2100 N Chestnut St #3, Ellensburg, WA 98926"
 
-resume_header_contact_info:     "1102 E. Seattle Ave, Ellensburg, WA 98926-3919 • 509-306-0375 • brianbauska@gmail.com"
+resume_header_contact_info:     "2100 N Chestnut St, #3, Ellensburg, WA 98926 • 509-306-0375 • brianbauska@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Senior Systems/Data Analyst, where 40,000+ hours of experience will contribute. 
