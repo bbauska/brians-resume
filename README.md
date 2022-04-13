@@ -27,7 +27,7 @@ Most of the basic customization will take place in the \`/\_config.yml\` file. H
 
 #### Editing content
 
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
+Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly.
 
 ### Publishing to GitHub Pages for free
 
