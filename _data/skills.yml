@@ -6,3 +6,7 @@
 # Systems Analysis - Payroll, HR, Accounting, many more
 - skill: SAP, Oracle
   description: Three years to transfer legacy systems to SAP/Oracle (running concurrently) utilizing data warehousing; TOAD, Teradata, SAP, Oracle 8, MS SQL (T-SQL), Access, VBA & PL/SQL. 
+
+# Web Development - Linux Server (apache, nginx, LAMP)
+- skills: HTML, CSS, SCSS, JS, Libraries, frameworks, SSL/TLS, . . .
+  description: Creating static and interactive web sites.  Static on GitHub.  Interactive on the cloud; Amazon, MS, Oracle, IBM, or Google.
