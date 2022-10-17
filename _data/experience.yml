@@ -1,7 +1,7 @@
 # Jobs
 # City Carrier Assistant
 - company: United States Postal Service
-  position: Mail, Spur and Package Delivery
+  position: Mail, Spur, Flats and Package Delivery
   duration: Jan, 2022 &mdash; Current
   summary: 1st, Ellensburg (98926), 2nd, Cle Elum (98922), Now, Monroe (98272) sorting and delivering mail, spurs and packages.
   
@@ -32,8 +32,8 @@
 # Programmer/Analyst
 - company: Gunderson Rail
   position: Programmer/Analyst II
-  duration: Jun, 1998  &mdash; May, 2000
-  summary: Developed a quality control/assurance system for rail cars.
+  duration: Jun, 1998  &mdash; May, 2010 (multiple)
+  summary: Using 4GL Powerhouse and HP Image RDBMS, developed a quality control/assurance system for rail car production.
 
 # Systems Manager - DEC/VAX 
 - company: Puget Plastics
