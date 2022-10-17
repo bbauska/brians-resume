@@ -25,3 +25,14 @@
   description: Bitcoin and Cryptocurrencies - BerkeleyX
 - url: "https://cs1982x.bauska.net"
   description: Blockchain Technology
+- url: "https://w3cx-1of5.bauska.org"
+  description: W3Cx CSS0.x - css3
+  - url: "https://w3cx-2of5.bauska.org"
+  description: W3Cx HTML5.0.x - html5 - introduction
+  - url: "https://w3cx-3of5.bauska.org"
+  description: W3Cx HTML5.1.x - html5 - intermediate
+  - url: "https://w3cx-4of5.bauska.org"
+  description: W3Cx HTML5.2.x - html5 - advanced
+  - url: "https://w3cx-5of5.bauska.org"
+  description: W3Cx JS.0x - javascript
+  
