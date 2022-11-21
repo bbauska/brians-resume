@@ -33,7 +33,7 @@ $rules = array(
   ),
   "Phone" => array(
     "required" => false,
-    "label" => "Your phone number (optional)",
+    "label" => "509-306-0375",
     "maxLength" => 30
   ),
   "Message" => array(
