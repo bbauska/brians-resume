@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brian A. Bauska"
-resume_title:                   "IT Database/System Analyst"
+resume_title:                   "IT Database/Systems Analyst"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "brianbauska@gmail.com"
@@ -25,8 +25,8 @@ display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Senior Systems/Data Analyst, where 40,000+ (almost 20 years) hours of experience will contribute. 
 Proven ability to analyze, integrate, move, and ‘model’ large volumes of enterprise data into useful data warehouses for multiple business needs.  
-Work well independently and with teams in both private and government sectors.
-</p>"
+Work well independently and with teams in both private and government sectors.</p>
+<p>Warehouse Management - 10+ years designing, developing, and maintaining on Oracle DBMS</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
