@@ -1,0 +1,3 @@
+Sitemap: http://brians-resume.net/sitemap.xml
+User-agent: *
+Disallow: /
