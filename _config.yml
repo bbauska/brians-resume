@@ -1,6 +1,6 @@
 # Site settings
 title: "Brian's Resume (brians-resume)"
-description: "A resume for Brian Bauska on GitHub Pages site; brians-resume.github.io"
+description: "A resume for Brian Bauska on GitHub Pages site; https://bbauska.github.io/brians-resume/"
 
 # Build settings
 markdown: kramdown
@@ -23,10 +23,10 @@ resume_contact_address:         "36010 US-2, Sp #130, Sultan, WA 98294"
 resume_header_contact_info:     "36010 US-2, Sp #130, Sultan, WA 98294 • 425-319-2332 • brianbauska@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Senior Systems/Data Analyst, where 40,000+ (almost 20 years) hours of experience will contribute. 
-Proven ability to analyze, integrate, move, and ‘model’ large volumes of enterprise data into useful data warehouses for multiple business needs.  
+resume_header_intro: "<p>Senior Systems/Data Analyst, where 40,000+ hours (almost 20 years) of experience will contribute.
+Documented ability to analyze, integrate, move, and ‘model’ large volumes of enterprise data into useful data warehouses for multiple business needs.  
 Work well independently and with teams in both private and government sectors.</p>
-<p>Warehouse Management - 10+ years designing, developing, and maintaining on Oracle DBMS</p>"
+<p>Warehouse Management - 10+ years designing, developing, and maintaining Oracle, DEC, and SQL RDBMS's.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
