@@ -5,8 +5,13 @@
   duration: Jul, 1960 &mdash; Present
   url: http://www.edx.org
   description: Learning portal (edX.org) - Berkeley; cryptocurrencies, blockchain, hyperledger - Harvard; front-end web development - edX; the statistical computing software language 'R' - LinuxFoundationX; blockchain, hyperledger 'aries'/'besu'.
-- project: JavaScript REACT
+- project: JavaScript Libraries &amp; Frameworks
   role: Learning 5th GL React
   duration: May, 2022 &mdash; Present
   url: https://github.com/bbauska/inthroughtheoutdoor
   description: Learning ReactJS, along with NodeJS, and a dozen or so more JavaScript Libraries and Class Modularization tools.  As of July 2, 2023 writing web sites to view and display pictures of Silus and Miss K (his cat).
+- project: CSS &amp; JavaScript Frameworks &amp; Libraries
+  role: CSS, Intermediate CSS, Advanced CSS along with JavaScript
+  duration: Jan, 2023 &mdash; Present
+  url: https://github.com/bbauska/coursera
+  description: Through Coursera online, learn CSS and JavaScript.
