@@ -33,4 +33,8 @@
   description: W3Cx HTML5.2.x - html5 - advanced
 - url: "https://w3cx-5of5.bauska.org"
   description: W3Cx JS.0x - javascript
+- url: "https://meta.bauska.org"
+  description: JavaScript React from Meta and Coursera
+- url: "https://meta-react-basics.bauska.org"
+  description: React - just starting out from Coursera.com
   
